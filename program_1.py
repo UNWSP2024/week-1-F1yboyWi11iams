@@ -3,7 +3,4 @@ def hello_world():
     # Python cares about white space, so watch your indentation.
     print('Hello ...')
     
-    hello_world(print)
-
-
-print('Hello World')
+    print("Hello World")
